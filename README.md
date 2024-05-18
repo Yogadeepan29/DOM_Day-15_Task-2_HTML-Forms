@@ -15,4 +15,4 @@ I have built a Web-page form, which appends form data to a Table for this task u
     * Also Included the test suite in the HTML file.
 
 
-==> This page is also Deployed on Netlify URL:
+==> This page is also Deployed on Netlify URL: https://ryd-dom-html-forms.netlify.app
